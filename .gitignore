@@ -1,0 +1,12 @@
+# Datos (se descargan desde Ultralytics; las URLs caducan)
+*.ndjson
+crack_dataset/
+ejemplos_demo/
+
+# Resultados de entrenamiento y pesos base
+runs/
+yolo11n-seg.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

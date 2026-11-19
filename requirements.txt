@@ -1,0 +1,9 @@
+ultralytics
+gradio
+scikit-image
+scipy
+seaborn
+pandas
+matplotlib
+opencv-python
+requests
